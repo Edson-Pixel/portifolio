@@ -44,7 +44,7 @@ function App() {
                 <NavLink href="/portifolio/Sobre" className="options">Sobre</NavLink>
               </NavItem>
             </Nav>
-            <NavbarText className="welcome">Seja Bem-vindo</NavbarText>
+            <NavbarText className="welcome">Seja Bem-vindo </NavbarText>
           </Collapse>
         </Navbar>
       
