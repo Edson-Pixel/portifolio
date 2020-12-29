@@ -1,6 +1,6 @@
 {
-  "homepage": "https://edson-pixel.github.io/portifolio",
-  "name": "reactjs",
+  "homepage": "https://edson-pixel.github.io/portifolio/",
+  "name": "portifolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
