@@ -50,9 +50,8 @@ function App() {
       
       <BrowserRouter>
         <Switch>
-          <Route exact path="/" component={Home} />
+          <Route exact path="/portifolio/" component={Home} />
           <Route path="/portifolio/Home" component={Home} />
-          <Route path="/portifolio/" component={Home} />
           <Route path="/portifolio/Projetos" component={Projeto} />
           <Route path="/portifolio/Habilidades" component={Conhecimentos} />
           <Route path="/portifolio/Sobre" component={Sobre} />
