@@ -32,16 +32,16 @@ function App() {
           <Collapse isOpen={isOpen} navbar >
             <Nav className="mr-auto" navbar>
               <NavItem>
-                <NavLink href="/Home" className="options">Home</NavLink>
+                <NavLink href="/portifolio/Home" className="options">Home</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/Projetos" className="options">Projetos</NavLink>
+                <NavLink href="/portifolio/Projetos" className="options">Projetos</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/Habilidades" className="options">Nivel de Habilidade</NavLink>
+                <NavLink href="/portifolio/Habilidades" className="options">Nivel de Habilidade</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/Sobre" className="options">Sobre</NavLink>
+                <NavLink href="/portifolio/Sobre" className="options">Sobre</NavLink>
               </NavItem>
             </Nav>
             <NavbarText className="welcome">Seja Bem-vindo</NavbarText>
@@ -51,11 +51,11 @@ function App() {
       <BrowserRouter>
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route path="/Home" component={Home} />
-          <Route path="/portifolio" component={Home} />
-          <Route path="/Projetos" component={Projeto} />
-          <Route path="/Habilidades" component={Conhecimentos} />
-          <Route path="/Sobre" component={Sobre} />
+          <Route path="/portifolio/Home" component={Home} />
+          <Route path="/portifolio/" component={Home} />
+          <Route path="/portifolio/Projetos" component={Projeto} />
+          <Route path="/portifolio/Habilidades" component={Conhecimentos} />
+          <Route path="/portifolio/Sobre" component={Sobre} />
         </Switch>
       </BrowserRouter>
     </div>
