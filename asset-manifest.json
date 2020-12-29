@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portifolio/static/css/main.60c0240f.chunk.css",
-    "main.js": "/portifolio/static/js/main.e69f5299.chunk.js",
-    "main.js.map": "/portifolio/static/js/main.e69f5299.chunk.js.map",
-    "runtime-main.js": "/portifolio/static/js/runtime-main.7409db04.js",
-    "runtime-main.js.map": "/portifolio/static/js/runtime-main.7409db04.js.map",
-    "static/css/2.0e480839.chunk.css": "/portifolio/static/css/2.0e480839.chunk.css",
-    "static/js/2.01ca6b1a.chunk.js": "/portifolio/static/js/2.01ca6b1a.chunk.js",
-    "static/js/2.01ca6b1a.chunk.js.map": "/portifolio/static/js/2.01ca6b1a.chunk.js.map",
-    "static/js/3.6e8ea88b.chunk.js": "/portifolio/static/js/3.6e8ea88b.chunk.js",
-    "static/js/3.6e8ea88b.chunk.js.map": "/portifolio/static/js/3.6e8ea88b.chunk.js.map",
-    "index.html": "/portifolio/index.html",
-    "static/css/2.0e480839.chunk.css.map": "/portifolio/static/css/2.0e480839.chunk.css.map",
-    "static/css/main.60c0240f.chunk.css.map": "/portifolio/static/css/main.60c0240f.chunk.css.map",
-    "static/js/2.01ca6b1a.chunk.js.LICENSE.txt": "/portifolio/static/js/2.01ca6b1a.chunk.js.LICENSE.txt"
+    "main.css": "/portifolio/Home/static/css/main.60c0240f.chunk.css",
+    "main.js": "/portifolio/Home/static/js/main.e6f4a22d.chunk.js",
+    "main.js.map": "/portifolio/Home/static/js/main.e6f4a22d.chunk.js.map",
+    "runtime-main.js": "/portifolio/Home/static/js/runtime-main.14506a41.js",
+    "runtime-main.js.map": "/portifolio/Home/static/js/runtime-main.14506a41.js.map",
+    "static/css/2.0e480839.chunk.css": "/portifolio/Home/static/css/2.0e480839.chunk.css",
+    "static/js/2.01ca6b1a.chunk.js": "/portifolio/Home/static/js/2.01ca6b1a.chunk.js",
+    "static/js/2.01ca6b1a.chunk.js.map": "/portifolio/Home/static/js/2.01ca6b1a.chunk.js.map",
+    "static/js/3.6e8ea88b.chunk.js": "/portifolio/Home/static/js/3.6e8ea88b.chunk.js",
+    "static/js/3.6e8ea88b.chunk.js.map": "/portifolio/Home/static/js/3.6e8ea88b.chunk.js.map",
+    "index.html": "/portifolio/Home/index.html",
+    "static/css/2.0e480839.chunk.css.map": "/portifolio/Home/static/css/2.0e480839.chunk.css.map",
+    "static/css/main.60c0240f.chunk.css.map": "/portifolio/Home/static/css/main.60c0240f.chunk.css.map",
+    "static/js/2.01ca6b1a.chunk.js.LICENSE.txt": "/portifolio/Home/static/js/2.01ca6b1a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7409db04.js",
+    "static/js/runtime-main.14506a41.js",
     "static/css/2.0e480839.chunk.css",
     "static/js/2.01ca6b1a.chunk.js",
     "static/css/main.60c0240f.chunk.css",
-    "static/js/main.e69f5299.chunk.js"
+    "static/js/main.e6f4a22d.chunk.js"
   ]
 }
