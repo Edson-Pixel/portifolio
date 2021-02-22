@@ -54,7 +54,7 @@ function App() {
           <Route path="/portifolio/Home.html" component={Home} />
           <Route path="/portifolio/Projetos" component={Projeto} />
           <Route path="/portifolio/Habilidades" component={Conhecimentos} />
-          <Route path="/portifolio/Sobre" component={Sobre} />
+          <Route path="/portifolio/Sobre.html" component={Sobre} />
         </Switch>
       </BrowserRouter>
     </div>
