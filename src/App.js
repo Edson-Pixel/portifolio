@@ -32,7 +32,7 @@ function App() {
           <Collapse isOpen={isOpen} navbar >
             <Nav className="mr-auto" navbar>
               <NavItem>
-                <NavLink href="/portifolio/Home" className="options">Home</NavLink>
+                <NavLink href="/portifolio/Home.html" className="options">Home</NavLink>
               </NavItem>
               <NavItem>
                 <NavLink href="/portifolio/Projetos" className="options">Projetos</NavLink>
@@ -51,7 +51,7 @@ function App() {
       <BrowserRouter>
         <Switch>
           <Route exact path="/portifolio/" component={Home} />
-          <Route path="/portifolio/Home" component={Home} />
+          <Route path="/portifolio/Home.html" component={Home} />
           <Route path="/portifolio/Projetos" component={Projeto} />
           <Route path="/portifolio/Habilidades" component={Conhecimentos} />
           <Route path="/portifolio/Sobre" component={Sobre} />
