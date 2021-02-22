@@ -41,7 +41,7 @@ function App() {
                 <NavLink href="/portifolio/Habilidades" className="options">Nivel de Habilidade</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/portifolio/Sobre" className="options">Sobre</NavLink>
+                <NavLink href="/portifolio/Sobre.html" className="options">Sobre</NavLink>
               </NavItem>
             </Nav>
             <NavbarText className="welcome">Seja Bem-vindo </NavbarText>
