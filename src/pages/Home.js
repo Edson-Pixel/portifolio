@@ -24,7 +24,7 @@ function Home() {
         <div className="destaque">
             <div>
                 <Typist className="digitacao">
-                    Seja bem vindo ao  meu Portifolio.
+                    Seja bem vindo ao  meu Portfólio.
                 </Typist>
             </div>
             <Jumbotron className="rest-ts">
