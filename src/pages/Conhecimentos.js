@@ -7,6 +7,7 @@ import {
 
 function Conhecimentos() {
     return (
+        <div>
         <div className="destaque body">
             <div className="animate__animated animate__backInLeft containers">
                 <Row xs="1" sm="2" md="3">
@@ -95,10 +96,14 @@ function Conhecimentos() {
                         </div>
                     </div>
                 </div>
-
                 </Row>
             </div>
-            
+        </div>
+            <footer>
+                <div>
+                    *O nível de habilidade foi calculado com base na quantidade de experiência, costume, resolução de problemas, e projetos relizados com alguma linguagem, plataforama, ou técnicas .
+                </div>
+            </footer>
         </div>
     )
 }
