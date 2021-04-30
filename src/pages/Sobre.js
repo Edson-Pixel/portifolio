@@ -20,7 +20,7 @@ function Sobre() {
                 </Typist>
             </div>
             <div className="sobre">
-                <img className="sobre-menu" src="/portifolio/perfil.png" alt={'perfil-Edson'}  />
+                <img className="sobre-menu" src="/portifolio/perfil.jpg" alt={'perfil-Edson'}  />
             </div>
 <Jumbotron className="rest-ts">
 <Row xs="1" sm="2" md="3">
