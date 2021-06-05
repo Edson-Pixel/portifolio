@@ -159,7 +159,7 @@ svg circle:nth-child(2)
    
 .background-menu{
     padding-bottom: 10px;
-    padding-top: 20px;
+    padding-top: 10px;
     background-color:#bdb5b5;
     color:#101010;
 }
@@ -282,7 +282,7 @@ margin-bottom: 0px;
 .perfil{
     border-radius: 50%;
     margin-right: 10px;  
-    width: 70px; 
+    width: 60px; 
 }
 
 .welcome{
